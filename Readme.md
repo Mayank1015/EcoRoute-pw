@@ -52,5 +52,15 @@
           <li> Do not search or execute it frequently else the we, developers could be charged. </li></ul> </h6>
 <p align="left">
 </p>
+
+<p>
+<img src = "https://user-images.githubusercontent.com/69693282/226512204-f321321e-008f-43c9-a1e3-5306b270ac59.png"><br>
+<img src = "https://user-images.githubusercontent.com/69693282/226512213-e5ddff60-f298-40f6-9054-bcbcb685aeae.png"><br>
+<img src = "https://user-images.githubusercontent.com/69693282/226512221-9be4bfc7-5a4e-4a70-adb3-76c35c86c083.png"><br>
+<img src = "https://user-images.githubusercontent.com/69693282/226512229-6b224031-bf39-4ae5-9bac-c01f3dfa9c1d.png"><br>
+
+
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
